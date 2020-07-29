@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tests</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="see_output">See Output</string>
+    <string name="get_tests">Get Tests Data</string>
+    <string name="new_data_available">New Data Available!!</string>
+</resources>
